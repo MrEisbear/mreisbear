@@ -1,0 +1,16 @@
+# Skript: Trash.sk by Eisbear
+
+command /trash:
+    permission: public # Permission (Optional)
+    executable by: players
+    description: You can throw some Items in the Trash!!
+    trigger:
+        open virtual chest inventory with size 9 named "Trash" to player #Edit the Size as you want.
+        
+        # Warte auf das Schließen des Containers
+        wait until player closes inventory
+        
+        # Lösche alle Gegenstände im Container
+        loop 9 times as index:
+            remove item in virtual chest inventory slot index from players
+
