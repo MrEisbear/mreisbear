@@ -22,7 +22,7 @@ The beloved Cuberunner is back, now in an enhanced edition! Get ready for an exc
 
 ### How to Play:
 
-1. Join VoxelMC.com server.
+1. Join `VoxelMC.com` server.
 2. Choose CubeRunner in the Navigator.
 3. Choose a difficulty or mode, such as Team or Solo.
 4. Win by navigating through the levels, avoiding obstacles, and collecting power-ups and power-downs.
