@@ -1,6 +1,6 @@
 ## CubeRunner: Enhanced
 
-![CubeRunner: Enhanced](https://example.com/cuberunner_enhanced.png)
+![CubeRunner: Enhanced](https://www.spigotmc.org/attachments/2016-03-08_13-39-39-png.110766/)
 
 The beloved Cuberunner is back, now in an enhanced edition! Get ready for an exciting and fast-paced minigame that's based on the classic Cuberunner, but with enhanced features and improvements for the latest Minecraft version.
 
