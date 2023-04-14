@@ -28,9 +28,17 @@ The beloved Cuberunner is back, now in an enhanced edition! Get ready for an exc
 4. Win by navigating through the levels, avoiding obstacles, and collecting power-ups and power-downs.
 5. Compete with friends and other players to become the ultimate Cuberunner!
 
+### How to Install:
+
+1. Download the CubeRunner: Enhanced plugin from the official website or plugin repository.
+2. Upload the plugin JAR file to your Minecraft server's plugin folder.
+3. Restart your server to load the plugin.
+4. Configure the plugin settings, such as game modes, difficulty, and other options, according to your preferences.
+5. Start your Minecraft server and join it to play CubeRunner: Enhanced with your friends or in single-player mode.
+
 Don't miss out on the enhanced version of this beloved Minecraft minigame! Join the adventure and test your skills in CubeRunner: Enhanced now!
 
-*Note: This Minecraft plugin requires Minecraft version X.XX or higher and is not affiliated with or endorsed by Mojang AB.*
+*Note: This Minecraft plugin requires Minecraft version 1.19 or higher and is not affiliated with or endorsed by Mojang AB.*
 
 Title: CubeRunner: Enhanced
 Description: The long-awaited Cuberunner is back, now enhanced!
