@@ -1,4 +1,4 @@
-# Voxel
-VoxelSystems - Mostly Scripts (.sk) for the Language Skript
+# NoName 
+Currently making a game. doesn't have a name yet tho...
 
-[![Discord](https://skillicons.dev/icons?i=discord,linux,lua,java,html)](https://discord.gg/Td39KZ7HAA)
+[![Discord](https://skillicons.dev/icons?i=discord,linux,godot,java,c#)](https://discord.gg/Td39KZ7HAA)
