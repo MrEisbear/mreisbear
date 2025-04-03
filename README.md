@@ -1,5 +1,5 @@
-# NoName 
-Currently making a game. doesn't have a name yet tho...
+# Eisbear
+Moin, ich bin Eisbear. Nix mehr nix Weniger
 
 <p align="center">
   <a href="https://discord.gg/Td39KZ7HAA">
