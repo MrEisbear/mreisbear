@@ -2,7 +2,7 @@
 Moin, ich bin Eisbear. Nix mehr nix Weniger
 
 <p align="center">
-  <a href="https://discord.gg/Td39KZ7HAA">
+  <a href="https://discord.gg/36m5eEwU9K">
     <img src="https://skillicons.dev/icons?i=discord,linux" />
   </a>
 </p>
